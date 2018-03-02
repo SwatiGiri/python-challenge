@@ -5,11 +5,6 @@ data_file = "C:/Users/swati/Downloads/Python/03-Python/Homework/Instructions/PyP
 
 df = pd.read_csv(data_file)
 
-# print(df.head())
-
-
-
-
 # Header
 print("Election Results")
 print("-------------------------")
